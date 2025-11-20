@@ -1,6 +1,8 @@
 {
   "name": "YuukiDev.CharacterController",
-  "references": [],
+  "references": [
+    "Unity.InputSystem"
+  ],
   "optionalUnityReferences": [],
   "includePlatforms": [],
   "excludePlatforms": [],
