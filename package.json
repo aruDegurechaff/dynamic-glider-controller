@@ -8,7 +8,9 @@
   "documentationUrl": "idk",
   "changelogUrl": "idk",
   "licensesUrl": "idk",
-  "dependencies": {},
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0"
+  },
   "keywords": [
     "yuukidev",
     "glider",
@@ -21,3 +23,4 @@
     "url": "https://arudegurechaff.github.io/aruDegurechaff.portfolio.github.io/"
   }
 }
+
