@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "YuukiDev Glider Controller",
   "description": "This a Glider Controller for an infinite glider game.",
-  "unity": "6.2",
+  "unity": "6000.2",
   "unityRelease": "10f1",
   "documentationUrl": "idk",
   "changelogUrl": "idk",
@@ -23,4 +23,5 @@
     "url": "https://arudegurechaff.github.io/aruDegurechaff.portfolio.github.io/"
   }
 }
+
 
